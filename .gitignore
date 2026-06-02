@@ -1,5 +1,6 @@
 audios/
 videos/
 .vscode
+.DS_Store
 
 *.joblib
