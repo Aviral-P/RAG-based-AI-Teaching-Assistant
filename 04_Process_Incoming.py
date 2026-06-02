@@ -19,7 +19,7 @@ def inference(prompt):
     r = requests.post(
         "http://localhost:11434/api/generate",
         json={
-            "model": "llama3.2",
+            "model": "qwen3:8b",
             "prompt": prompt,
             "stream": False
         }

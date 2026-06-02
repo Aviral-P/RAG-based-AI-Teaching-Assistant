@@ -1,1 +1,9 @@
-The user asked about "Where is CNN taught?" but this is an unrelated question. I'm afraid I can only answer questions related to the provided video subtitle chunks containing information about Convolutional Neural Networks (CNN). If you have any other questions related to the data, I'd be happy to help!
+The topic of Convolutional Neural Networks (CNN) is covered in **video 02**. Here's the breakdown of the content:
+
+- **At 52.0–59.0 seconds**: The video introduces the concept of a CNN, explaining it as a type of neural network.  
+- **At 70.0–76.0 seconds**: It transitions into a high-level explanation of how CNNs work.  
+- **At 76.0–80.0 seconds**: The video breaks down the term "CNN" and its significance.  
+- **At 102.0–107.0 seconds**: It elaborates on CNNs as a specific section of neural network layers.  
+- **At 337.0–342.0 seconds**: A summary of CNNs is provided, emphasizing their role in neural networks.  
+
+To fully understand where CNN is taught, watch **video 02** starting from **52 seconds** and review the timestamps above for specific details. Let me know if you'd like further clarification!
