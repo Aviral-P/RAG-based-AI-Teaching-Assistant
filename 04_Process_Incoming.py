@@ -25,7 +25,6 @@ def inference(prompt):
         }
     )
     response = r.json()
-    print(response)
     return response
 
 df = joblib.load("embeddings.joblib")

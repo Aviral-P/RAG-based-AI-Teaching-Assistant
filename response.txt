@@ -1,9 +1,3 @@
-The topic of Convolutional Neural Networks (CNN) is covered in **video 02**. Here's the breakdown of the content:
+OCR is mentioned in **video 02** (title: *"What are Convolutional Neural Networks (C"*) at the timestamp **342.0 seconds**. The content highlights OCR as an example of a business application of CNNs, specifically for understanding handwritten documents. The mention lasts until **372.0 seconds**. 
 
-- **At 52.0–59.0 seconds**: The video introduces the concept of a CNN, explaining it as a type of neural network.  
-- **At 70.0–76.0 seconds**: It transitions into a high-level explanation of how CNNs work.  
-- **At 76.0–80.0 seconds**: The video breaks down the term "CNN" and its significance.  
-- **At 102.0–107.0 seconds**: It elaborates on CNNs as a specific section of neural network layers.  
-- **At 337.0–342.0 seconds**: A summary of CNNs is provided, emphasizing their role in neural networks.  
-
-To fully understand where CNN is taught, watch **video 02** starting from **52 seconds** and review the timestamps above for specific details. Let me know if you'd like further clarification!
+To see this, navigate to **video 02** and check the segment starting at **3:42** (342 seconds).
