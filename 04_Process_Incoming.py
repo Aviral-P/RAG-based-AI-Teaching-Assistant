@@ -15,6 +15,18 @@ def create_embedding(text_list):
     embedding = r.json()["embeddings"]
     return embedding
 
+def inference(prompt):
+    r = requests.post(
+        "http://localhost:11434/api/generate",
+        json={
+            "model": "deepseek-r1",
+            "prompt": prompt,
+            "stream": False
+        }
+    )
+    response = r.json()
+    print(response)
+    return response
 
 df = joblib.load("embeddings.joblib")
 
@@ -52,3 +64,11 @@ answer questions related to the data.
 
 with open("prompt.txt", "w") as f:
     f.write(prompt)
+    
+    
+response = inference(prompt)["response"]
+print(response)
+
+
+with open("response.txt", "w") as f:
+    f.write(response)
