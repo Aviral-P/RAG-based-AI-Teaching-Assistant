@@ -1,6 +1,11 @@
+#Media
+
 audios/
 videos/
+
+#Misc
 .vscode
 .DS_Store
 
+#Embeddings
 *.joblib

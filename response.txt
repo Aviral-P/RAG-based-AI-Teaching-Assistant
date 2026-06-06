@@ -1,3 +1,9 @@
-OCR is mentioned in **video 02** (title: *"What are Convolutional Neural Networks (C"*) at the timestamp **342.0 seconds**. The content highlights OCR as an example of a business application of CNNs, specifically for understanding handwritten documents. The mention lasts until **372.0 seconds**. 
+The topic of Convolutional Neural Networks (CNNs) is covered in **video 02** (title: *"What are Convolutional Neural Networks (C"*) throughout its duration. Here's how the content is structured:  
 
-To see this, navigate to **video 02** and check the segment starting at **3:42** (342 seconds).
+- **00:43–01:16 (43–76 seconds):** Introduces CNNs, their role in pattern recognition, and a high-level overview of how they work.  
+- **01:16–01:42 (76–102 seconds):** Explains the basics of neural networks, layers, and how CNNs fit into this structure.  
+- **01:42–02:08 (102–128 seconds):** Focuses on filters in CNNs and their role in pattern recognition, with an example of identifying objects like houses.  
+- **05:10–05:32 (310–342 seconds):** Discusses deeper layers in CNNs and how filters evolve to recognize more abstract patterns (e.g., distinguishing between houses, apartments, skyscrapers).  
+- **05:32–06:12 (342–372 seconds):** Covers real-world applications of CNNs, such as OCR, facial detection, medical imaging, and even identifying poorly drawn objects.  
+
+The video provides a comprehensive explanation of CNNs, from foundational concepts to practical use cases. To learn about CNNs, watch **video 02** and navigate to the timestamps mentioned above for specific sections.
