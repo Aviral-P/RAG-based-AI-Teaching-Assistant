@@ -19,19 +19,8 @@ def create_embedding(text_list):
     embedding = r.json()["embeddings"]
     return embedding
 
-def inference(prompt):
-    r = requests.post(
-        "http://localhost:11434/api/generate",
-        json={
-            "model": "qwen3:8b",
-            "prompt": prompt,
-            "stream": False
-        }
-    )
-    response = r.json()
-    return response
-
 def inference_openai(prompt):
+    print("Thinking...")
     response=client.responses.create(
         model="gpt-5",
         input=prompt
@@ -74,13 +63,9 @@ answer questions related to the data.
 
 with open("prompt.txt", "w") as f:
     f.write(prompt)
-    
-    
-# response = inference(prompt)["response"]
-# print(response)
 
 response=inference_openai(prompt)
+print(response)
 
-
-with open("response.txt", "w") as f:
+with open("response.txt", "w", encoding="utf-8") as f:
     f.write(response)

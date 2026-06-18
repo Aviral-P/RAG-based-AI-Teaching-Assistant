@@ -6,6 +6,8 @@ videos/
 #Misc
 .vscode
 .DS_Store
+__pycache__
+tempCodeRunnerFile.py
 
 #Embeddings
 *.joblib
