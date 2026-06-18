@@ -9,3 +9,5 @@ videos/
 
 #Embeddings
 *.joblib
+
+config.py
